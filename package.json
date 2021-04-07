@@ -49,7 +49,7 @@
     "@restart/hooks": "^0.3.26",
     "@types/node": "*",
     "@types/react": ">=16.0.0",
-    "@types/relay-runtime": ">=10.1.8",
+    "@types/relay-runtime": ">=11.0.0",
     "@types/store": "^2.0.2",
     "store": "^2.0.12",
     "utility-types": "^3.10.0"
